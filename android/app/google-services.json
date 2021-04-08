@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395746561147",
+    "project_id": "yapilacaklar-1ff0a",
+    "storage_bucket": "yapilacaklar-1ff0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395746561147:android:2cd1d3b3e788a2f0baa6de",
+        "android_client_info": {
+          "package_name": "com.example.firebasetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395746561147-fgv27r61qect4kgbvs108bm58qh49rh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADh8pXI7yqfJUXR-vDELeHkBzOwc4redQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395746561147-fgv27r61qect4kgbvs108bm58qh49rh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
